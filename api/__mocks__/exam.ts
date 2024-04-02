@@ -5,7 +5,7 @@ export const examJson = {
   title: 'Exam Certification',
   numberOfQuestionsInExam: 3,
   passingPercent: 10,
-  prerequisites: [
+  preRequisites: [
     {
       id: '647f85d407d29547b3bee1bb',
       title: 'challenge-title'
